@@ -10,6 +10,8 @@
 
 This module automatically assigns new characters to a specific guild depending on the faction.
 
+#Updated so Rndbots cant join guild
+
 ## Usage
 
 - Create a new guild ingame for each faction with `.guild create` or directly into the database.
